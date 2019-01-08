@@ -1,0 +1,94 @@
+{
+	"journalList": [
+		{
+				"context": "Freefall Thailand.",
+				"urlLists": [{
+					"url": "./src/assets/images/journal/journal20180504.jpg"
+				},
+				{
+					"url": "./src/assets/images/journal/journal20180505.jpg"
+				}],
+				"time": "2018-05-02"
+		},
+		{
+				"context": "Phi Phi Island.",
+				"urlLists": [{
+					"url": "./src/assets/images/journal/journal20180503.jpg"
+				}],
+				"time": "2018-05-02"
+		},
+		{
+				"context": "Similan.",
+				"urlLists": [{
+					"url": "./src/assets/images/journal/journal20180501.jpg"
+				},
+				{
+					"url": "./src/assets/images/journal/journal20180502.jpg"
+				}],
+				"time": "2018-05-01"
+		},
+		{
+				"context": "So he show me how to play Rammus let me think of 'Doubi' show me how to play Fizz.",
+				"urlLists": [
+
+				],
+				"time": "2018-04-20"
+		},
+		{
+				"context": "He huge me,I feel warm and love.Hope is hope.Tonight up work again.Study how to take a photo with some property.",
+				"urlLists": [{
+					"url": "./src/assets/images/journal/journal20180419.jpg"
+				}],
+				"time": "2018-04-19"
+		},
+		{
+  			"context": "Holly shit!He try to makes me do not angry hard.Why he ",
+  			"urlLists": [],
+  			"time": "2018-03-25"
+  	},
+		{
+  			"context": "Meet him on the train,but he almost do not wanna si hi.Feeling down down down.Just think of one lric in one song that'那一天狂乱的雨淋湿了你的倔强'.I wanna quit you!!!",
+  			"urlLists": [],
+  			"time": "2018-03-24"
+  	},
+    {
+			"context": "Few day ago,I cut my hair,wanna forget something.Today,Creat an Timeline to record my mood.The boy I loved makes me happy and sad?Why I can't control my emotions?How could I do can know what he thinking.",
+			"urlLists": [{
+				"url": "./src/assets/images/journal/journal20180321.jpg"
+			}],
+			"time": "2018-03-22"
+		},
+		{
+			"context": "Today,He do not say hi.A little dispointed.But,It's happy to drink one blue pepsi.Write a price for web on IVX and VINNG.Have a walk after lunch.The sunshine is comfotable.Yep,A beatiful day always wait you to find.",
+			"urlLists": [{
+				"url": "./src/assets/images/journal/journal20180322.jpg"
+			}],
+			"time": "2018-03-21"
+		},
+		{
+			"context": "Finish timeline page.",
+			"urlLists": [],
+			"time": "2018-02-27"
+		},
+		{
+			"context": "Finish thanks! page.",
+			"urlLists": [],
+			"time": "2018-02-27"
+		},
+		{
+			"context": "Finish infoCard page.",
+			"urlLists": [],
+			"time": "2018-02-26"
+		},
+		{
+			"context": "Update new menu.",
+			"urlLists": [],
+			"time": "2018-02-26"
+		},
+		{
+			"context": "Create a blog site.",
+			"urlLists": [],
+			"time": "2018-02-25"
+		}
+	]
+}

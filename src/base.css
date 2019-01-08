@@ -1,0 +1,61 @@
+/*
+  自用css文件
+*/
+.test-align-left{
+  text-align:left;
+}
+.test-align-right{
+  text-align:right;
+}
+.font-size-12{
+  font-size: 12px;
+}
+.font-size-14{
+  font-size: 14px;
+}
+.font-size-16{
+  font-size: 16px;
+}
+.font-size-18{
+  font-size: 18px;
+}
+.font-size-20{
+  font-size: 20px;
+}
+.margin-top-10{
+  margin-top:10px;
+}
+.margin-top-20{
+  margin-top:20px;
+}
+.margin-top-50{
+  margin-top:50px;
+}
+.margin-top-100{
+  margin-top:100px;
+}
+.avatar{
+  max-width: 100px;
+}
+.max-width-900{
+  max-width:900px;
+}
+.text-indent{
+  text-indent: 2em;
+}
+.text-gradient-red-to-yellow {
+  background: linear-gradient(45deg, red, yellow);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.text-gradient-green-to-black {
+  background: linear-gradient(30deg, yellow, blue);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.timeline-title{
+  font-size:20px;
+  text-align:center;
+  margin:20px 0;
+
+}
